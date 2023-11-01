@@ -37,3 +37,6 @@ To use this Login Page, follow these steps:
 
 ## Contribution
 Feel Free To contribute and Add more with this
+
+#License
+[LICENSE](https://github.com/DhyaanKanoja11/LoginPage1/blob/main/LICENSE)
